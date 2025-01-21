@@ -1,5 +1,5 @@
 
-# Fine-Tune and Inference
+# Fine-Tune and Inference - AI Score (MultiLingual)
 
 This repository contains scripts to fine-tune a transformer model on a custom dataset and perform inference. The Model is multilingual and Supports both Chinese and English.
 
@@ -26,6 +26,7 @@ source venv/bin/activate
 ```
 
 ### 2. Install Dependencies
+Firstly clone the repository.
 Once the virtual environment is activated, install the required dependencies:
 ```bash
 pip install -r requirements.txt
