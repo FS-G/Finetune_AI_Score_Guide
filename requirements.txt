@@ -1,0 +1,7 @@
+transformers
+datasets
+evaluate 
+pandas
+torch 
+scikit-learn
+accelerate>=0.26.0
